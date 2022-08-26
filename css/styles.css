@@ -117,7 +117,7 @@ padding-right: 15px;
     font-size: 26px;
     line-height: 1.19;
 
-    color: var(--primary-logo-blue);
+    color: var(--primary-logo-dark);
 }
 
 .dark-logo {
@@ -127,7 +127,7 @@ padding-right: 15px;
     font-size: 26px;
     line-height: 1.19;
 
-    color: var(--primary-logo-dark);
+    color: var(--primary-logo-blue);
 }
 
 .menu-link:hover,
@@ -339,7 +339,7 @@ padding-right: 15px;
 }
 .logo-footer {
     display: inline-block;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .blue-logo {
